@@ -20,5 +20,3 @@
  * Fetching the current Weather Using openweathermap Api and manage their data and handles their errors as well as showing temperature in celcius and fahrenheit.
  * Also displaying the current situation weather image.
  * And Another file weatherDetails.jsx  to maintain Ui  components and details to display
-### Wanna Try
-  * If Have reference  click here : [https://weatherapp-ap.netlify.app/]
